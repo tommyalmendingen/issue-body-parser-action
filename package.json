@@ -21,6 +21,6 @@
   "dependencies": {
     "@actions/core": "^1.2.6",
     "@actions/github": "^2.2.0",
-    "yaml": "^1.10.0"
+    "yaml": "^2.2.2"
   }
 }
